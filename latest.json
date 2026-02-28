@@ -1,31 +1,31 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "notes": "",
-  "pub_date": "2026-02-28T02:53:53.399Z",
+  "pub_date": "2026-02-28T06:23:15.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDA5czhieHUvY3JQWTdzdmRDdWxCemE1Ry9BK0pjRm5hSmd5RG9hY2JMS3FmbmIyZjNvcXFQWGRnVDZ3ZjJNRzd4Q21nOUFwS0tQRFR5RjI1dGtLV1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjQ2OTE3CWZpbGU6QUkgU3R1ZGlvXzEuOS43X3g2NC1zZXR1cC5leGUKVjNKZERVaWJ5MUlodExCQ1JLMlZKQ0pUY011NWVGRE1hYlhWMWZLL0Q0cHplNUExcGxkOGVlbEM0MzVtOE5kY1luU1EzZ0V6bmdiNUwwMit2YkV6RGc9PQo=",
-      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.7/opencode-desktop-windows-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDcwUGVmWnRmd3JQTjB0Q0xyMFVQRnpaWWxRM3FFUzBDaVB5YlBHcmNNa3BmaWt3Ylg3SVY0SDVZTUlKQXZxZlZXUXpYbmJtemw2TmJQRUhVbno1S2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5NTU3CWZpbGU6QUkgU3R1ZGlvXzEuOS44X3g2NC1zZXR1cC5leGUKWkJGclRURW5RK2dTZ2VoaHhpWThMOFQxczlEQXJJNlljOHVVaUZzNys4cnVLaEJROU5zTGNGVWhpZmtneFp3WDZXUzJlakJKcCtTZi9CMnBBMEF6QUE9PQo=",
+      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.8/opencode-desktop-windows-x64.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDA5czhieHUvY3JQWTdzdmRDdWxCemE1Ry9BK0pjRm5hSmd5RG9hY2JMS3FmbmIyZjNvcXFQWGRnVDZ3ZjJNRzd4Q21nOUFwS0tQRFR5RjI1dGtLV1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjQ2OTE3CWZpbGU6QUkgU3R1ZGlvXzEuOS43X3g2NC1zZXR1cC5leGUKVjNKZERVaWJ5MUlodExCQ1JLMlZKQ0pUY011NWVGRE1hYlhWMWZLL0Q0cHplNUExcGxkOGVlbEM0MzVtOE5kY1luU1EzZ0V6bmdiNUwwMit2YkV6RGc9PQo=",
-      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.7/opencode-desktop-windows-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDcwUGVmWnRmd3JQTjB0Q0xyMFVQRnpaWWxRM3FFUzBDaVB5YlBHcmNNa3BmaWt3Ylg3SVY0SDVZTUlKQXZxZlZXUXpYbmJtemw2TmJQRUhVbno1S2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5NTU3CWZpbGU6QUkgU3R1ZGlvXzEuOS44X3g2NC1zZXR1cC5leGUKWkJGclRURW5RK2dTZ2VoaHhpWThMOFQxczlEQXJJNlljOHVVaUZzNys4cnVLaEJROU5zTGNGVWhpZmtneFp3WDZXUzJlakJKcCtTZi9CMnBBMEF6QUE9PQo=",
+      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.8/opencode-desktop-windows-x64.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDB5SWFnUnpYSHJjMHZDTE5NWjNXVG51SUJZcmkxcGxvM243czgyakNjbWNyb0tUZGxVR0VIa3VZckZpV0dkLzlaQjNscG5xWEplbHR6dHNuanZoS1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjQ3MTM4CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKUVd3dkovQnNDdzNvMmVMZ0MrZkdIZzdQR0tpVCt6YWwyZ2x3d1JkQkxyTDR2TWE1cTBlSy9qKytzQ2YvMXdhSVpjZ1hkRE5USWMwNDVLVmphUWUvQVE9PQo=",
-      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.7/opencode-desktop-darwin-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WHhIK0hJeWkyK1c1VTlmemxab3VVRG1nSTVyT0RVQTB2U1dRdDlGUmt4cHpQR2FVVXpESGFIZWFROERkUnppMEZKZzdkM3RUcllvTjRsWHdwZ0VJdXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5Nzc4CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKaDkydmlpV28xSGJVcVcxZldvL3cyMmVXK0dBSTlUQjRTc2t4c1lrZ0dhSWs0MW1xRjF4QUJHM3ltV2EwUWF4dlk3NTF4eHJpenpXYm8xRDNtTUx4QXc9PQo=",
+      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.8/opencode-desktop-darwin-x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDB5SWFnUnpYSHJjMHZDTE5NWjNXVG51SUJZcmkxcGxvM243czgyakNjbWNyb0tUZGxVR0VIa3VZckZpV0dkLzlaQjNscG5xWEplbHR6dHNuanZoS1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjQ3MTM4CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKUVd3dkovQnNDdzNvMmVMZ0MrZkdIZzdQR0tpVCt6YWwyZ2x3d1JkQkxyTDR2TWE1cTBlSy9qKytzQ2YvMXdhSVpjZ1hkRE5USWMwNDVLVmphUWUvQVE9PQo=",
-      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.7/opencode-desktop-darwin-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WHhIK0hJeWkyK1c1VTlmemxab3VVRG1nSTVyT0RVQTB2U1dRdDlGUmt4cHpQR2FVVXpESGFIZWFROERkUnppMEZKZzdkM3RUcllvTjRsWHdwZ0VJdXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5Nzc4CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKaDkydmlpV28xSGJVcVcxZldvL3cyMmVXK0dBSTlUQjRTc2t4c1lrZ0dhSWs0MW1xRjF4QUJHM3ltV2EwUWF4dlk3NTF4eHJpenpXYm8xRDNtTUx4QXc9PQo=",
+      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.8/opencode-desktop-darwin-x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDJrYTZBTkZtUGRNVEZlTTg3eW5rdU91cTczRWJLek1BQ2NFYkNhZFJVTUdKVW1ENWgvakNQdmZ2YzRtZVkwb2V4UXUxcCtmWERTNnRwR1VkaVRNUlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjQ3MjI1CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKQy9SVnRldHNrWWJEbkNFZVFZUFB2L0FMcUxYaHFsT2lEY1I3em5FOEFsb1V4SndJYy9nclBiUUtsL2NwcVkwMXkrbmgrVHBuc0p3SjB4cjFyanFlQmc9PQo=",
-      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.7/opencode-desktop-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WC94QzRWRm92TG5JNjJ3TzdMalYyWkZXQW1NbUJNY0NIS0pYdjFaSDhGbGd4bDRGTXAzb2RBMHZZWFcvVWRYSkluLzJxNWFTQktkUEdwYnZiSG5nRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5Nzg4CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKVjl5ai9mOTNNWmY5L1cvRnlacU1naWNocm94dWczQ1IyZXJadXBybHNXL0hsVU4xVnYxYm9jRjdmOW5lckNyV3E2MHl0RlYvK25QY0tlT3NFblN1Q0E9PQo=",
+      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.8/opencode-desktop-darwin-aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WDJrYTZBTkZtUGRNVEZlTTg3eW5rdU91cTczRWJLek1BQ2NFYkNhZFJVTUdKVW1ENWgvakNQdmZ2YzRtZVkwb2V4UXUxcCtmWERTNnRwR1VkaVRNUlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjQ3MjI1CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKQy9SVnRldHNrWWJEbkNFZVFZUFB2L0FMcUxYaHFsT2lEY1I3em5FOEFsb1V4SndJYy9nclBiUUtsL2NwcVkwMXkrbmgrVHBuc0p3SjB4cjFyanFlQmc9PQo=",
-      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.7/opencode-desktop-darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2ZaTFVGNTM0WC94QzRWRm92TG5JNjJ3TzdMalYyWkZXQW1NbUJNY0NIS0pYdjFaSDhGbGd4bDRGTXAzb2RBMHZZWFcvVWRYSkluLzJxNWFTQktkUEdwYnZiSG5nRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjU5Nzg4CWZpbGU6QUkgU3R1ZGlvLmFwcC50YXIuZ3oKVjl5ai9mOTNNWmY5L1cvRnlacU1naWNocm94dWczQ1IyZXJadXBybHNXL0hsVU4xVnYxYm9jRjdmOW5lckNyV3E2MHl0RlYvK25QY0tlT3NFblN1Q0E9PQo=",
+      "url": "https://github.com/mobius-ring/version/releases/download/v1.9.8/opencode-desktop-darwin-aarch64.app.tar.gz"
     }
   }
 }
